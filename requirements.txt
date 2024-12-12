@@ -1,2 +1,4 @@
 python-dotenv
+ipywidgets
 openai
+google-generativeai
