@@ -7,5 +7,7 @@ langchain_core
 langchain_openai
 langchain_community
 tavily-python
+duckduckgo-search
+beautifulsoup4
 # graphviz
 # pygraphviz
