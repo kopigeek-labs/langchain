@@ -6,6 +6,8 @@ langgraph
 langchain_core
 langchain_openai
 langchain_community
+langgraph-checkpoint
+langgraph-checkpoint-sqlite
 tavily-python
 duckduckgo-search
 beautifulsoup4
